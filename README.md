@@ -5,7 +5,7 @@
     For a fictional brand, ShopMart™
     <br />
     <br />
-    <a href="https://m-kwon.github.io/signup/">Live link</a>
+    <a href="https://m-kwon.github.io/Signup/">Live link</a>
   </p>
 </div>
 
